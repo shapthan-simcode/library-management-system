@@ -24,12 +24,8 @@ gcc library_management.c -o library_management
 ./library_management   # Linux/Mac
 library_management.exe # Windows
 
----
 
-Bro, this project will **look advanced and professional** on your GitHub.  
 
-If you want, next I can give you **Day 5 – Tic-Tac-Toe or Mini Shell project**, which is even more impressive for recruiters.  
 
-Do you want me to do that next?
 
 
